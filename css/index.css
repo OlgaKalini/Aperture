@@ -237,7 +237,7 @@ svg:hover {
     min-height: calc(100vh - 90px);
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: linear-gradient(0deg, #000 18.78%, rgba(0, 0, 0, 0.00) 98.53%), url(/img/section1.jpg);
+    background-image: linear-gradient(0deg, #000 18.78%, rgba(0, 0, 0, 0.00) 98.53%), url(../img/section1.jpg);
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -342,8 +342,6 @@ svg:hover {
     margin-top: 17px;
 }
 
-
-
 /*sec-3*/
 .section-3 {
     min-height: 600px;
@@ -352,7 +350,7 @@ svg:hover {
     flex-direction: column;
     justify-content: flex-end;
     align-items: flex-end;
-    background-image: url(/img/section3.jpg);
+    background-image: url(../img/section3.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -382,7 +380,7 @@ svg:hover {
 }
 
 .image-section-4 {
-    background-image: url(/img/section4.jpg);
+    background-image: url(../img/section4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 540px;
@@ -436,7 +434,7 @@ svg:hover {
     flex-direction: column;
     justify-content: flex-end;
     align-items: flex-end;
-    background-image: url(/img/section5.jpg);
+    background-image: url(../img/section5.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -487,7 +485,7 @@ svg:hover {
     flex-direction: column;
     justify-content: flex-end;
     align-items: flex-end;
-    background-image: url(/img/section7.jpg);
+    background-image: url(../img/section7.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: center;
